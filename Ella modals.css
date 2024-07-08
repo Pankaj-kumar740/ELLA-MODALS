@@ -1,0 +1,85 @@
+body{
+    background-image: url(https://i.ibb.co/HtfMdJS/bg.webp);
+    overflow: scroll;
+    scroll-behavior: smooth;
+}
+.container1{
+    
+}
+.one{
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    padding: 0.5vw 2vh;
+    position: relative;
+    left: 2vh;
+}
+.one:hover{
+    color: brown;
+}
+.container1>a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    padding: 0.5vw 2vh;
+    position: relative;
+    left: 100vh;
+    top: -4.5vh;
+    margin: 2vh;
+
+}
+.container1>a:hover{
+    color: brown;
+}
+.two{
+    color:goldenrod;
+    font-size: 6vh;
+    font-weight: bolder;
+    position: relative;
+    left: 15vh;
+    top: 14vh;
+}
+.three{
+    color: white;
+    font-size: 4vh;
+    font-weight: bolder;
+    position: relative;
+    left: 22vh;
+    top: 8vh;
+}
+.four{
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    position: relative;
+    left: 18vh;
+    top: 14vh;
+    word-spacing: 2vh;
+    height: 100vh;
+    width: 100vh;
+    line-height: 5vh;
+}
+button{
+    background-color: coral;
+    font-size: large;
+    font-weight: bolder;
+    position: relative;
+    left: 20vh;
+    top:-70vh ;
+    height: 10vh;
+    width: 30vh;
+
+}
+button:hover{
+    background-color: white;
+}
+footer{
+    color: white;
+    font-weight: bolder;
+    position: relative;
+
+    top:-58vh ;
+}
+
+
